@@ -2,7 +2,7 @@
 
 HealthGPT is a React-based chatbot application designed to assist users with health-related inquiries. By integrating OpenAI's GPT-4 model, users can engage in natural language conversations with the chatbot to receive health advice and information.
 
-![HealthGPT](public/images/healthbot.png)
+![HealthGPT](public/healthbot.png)
 
 ## Features
 
